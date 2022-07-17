@@ -1,0 +1,14 @@
+
+.table {
+    
+    display: flex;
+    justify-content: center;
+    padding-left: 400px;
+    padding-right: 350px;
+    }
+.table2{
+    display: flex;
+    justify-content: center;
+    padding-left: 500px;
+    padding-right: 300px;
+}
